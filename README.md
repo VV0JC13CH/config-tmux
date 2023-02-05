@@ -40,3 +40,6 @@ git clone https://github.com/VV0JC13CH/config-tmux ~/.config/tmux
 
 ### ranger-tmux
 - `prefix + r` - toggle ranger pane on/off
+
+### laktak/extrakto
+- `prefix + tab` - fzf finder for pane content
